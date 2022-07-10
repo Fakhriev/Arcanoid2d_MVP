@@ -1,0 +1,20 @@
+{
+    "name": "MainAD",
+    "rootNamespace": "",
+    "references": [
+        "GUID:094f721c7bd9f0b45b5785791978d1b6",
+        "GUID:8881f0a9806526a4fad4b5afb3086227",
+        "GUID:5da8f669263db1c4fba245f9b6ae271b",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:75469ad4d38634e559750d17036d5f7c"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

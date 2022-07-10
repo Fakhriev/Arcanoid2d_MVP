@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ecd5cfba39c69c44872fafe0eaa21db, type: 3}
+  m_Name: PlayerSettings
+  m_EditorClassIdentifier: 
+  maximalVelocity: 7.5
+  decelerationSpeed: 2.5
+  parametres:
+    startPosition: {x: 0, y: 0}
+    moveSpeed: 5
+    startRotation: {x: 0, y: 0, z: 0, w: 1}
+    rotationSpeed: -180
+  weaponParametres:
+    fireInterval: 0.25
+    bulletLifeTime: 5
+    bulletsParametres:
+      startPosition: {x: 0, y: 0}
+      moveSpeed: 8
+      startRotation: {x: 0, y: 0, z: 0, w: 0}
+      rotationSpeed: 0
+    laserLifeTime: 0.75
+    laserReloadTime: 5
+    laserMaxCount: 3
+    laserParametres:
+      startPosition: {x: 0, y: 0}
+      moveSpeed: 0
+      startRotation: {x: 0, y: 0, z: 0, w: 0}
+      rotationSpeed: 0
